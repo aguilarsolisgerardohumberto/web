@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu2 {
+    list-style: none;
+    float: left;
+    padding: 35px;
+}
+
+.menu2 li{
+    display:inline-block;
+    float: left;
+    display:flex;
+    }
+
+.menu2 a{
+    text-decoration: none;
+    background-color:  #bfff2a;
+    color:rgb(0, 0, 0);
+    padding: 15px 20px;
+    border: 5px solid  #bfff2a;
+}
+
+.menu2 a:hover{
+    background-color: ##bfff2a;
+    color:  white;
+}

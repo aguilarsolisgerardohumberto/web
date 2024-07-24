@@ -1,0 +1,29 @@
+*{margin: 0px;
+padding: 5px;}
+
+#titleP{color: rgb(0, 0, 0);
+font-family: verdana;
+font-weight: bold;
+font-size: 30px;}
+
+nav{width: 300px;
+border: 0px solid rgb(3, 3, 3);
+align-items: center;
+}
+
+.menu{list-style: none;
+padding: 0;
+margin: 0;}
+
+.menu li{margin-bottom: 0px;}
+
+.menu a{color: #000000;
+    background-color:#7fffd4;
+    text-decoration:none;
+padding: 15px;
+display: block;}
+
+.menu a:hover{
+    background: black;
+    color: aliceblue;
+}
